@@ -1,0 +1,10 @@
+doctype html
+html(lang="en")
+    head
+        @include('partials.style')
+        title @yield('title')
+    body
+        @section('sidebar') This is the master sidebar 1.
+        @show
+        .container @yield('content')
+        @include('partials.footer')
