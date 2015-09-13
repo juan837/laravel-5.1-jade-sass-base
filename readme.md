@@ -1,3 +1,7 @@
+## Laravel PHP Framework con JADE
+
+Proyecto base, listo para trabajar las vistas en JADE y configurado con livereload y compresión de imagenes
+
 ## Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
